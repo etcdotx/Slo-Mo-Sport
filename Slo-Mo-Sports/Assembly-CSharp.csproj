@@ -52,12 +52,17 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\CameraFPS.cs" />
+     <Compile Include="Assets\Enemy.cs" />
+     <Compile Include="Assets\NavMeshComponents\Scripts\NavMeshLink.cs" />
+     <Compile Include="Assets\NavMeshComponents\Scripts\NavMeshModifier.cs" />
+     <Compile Include="Assets\NavMeshComponents\Scripts\NavMeshModifierVolume.cs" />
+     <Compile Include="Assets\NavMeshComponents\Scripts\NavMeshSurface.cs" />
      <Compile Include="Assets\OBJImport\OBJLoader.cs" />
      <Compile Include="Assets\OBJImport\TextureLoader.cs" />
      <Compile Include="Assets\PlayerControl.cs" />
      <None Include="Assets\OBJImport\readme.txt" />
  <Reference Include="Facebook.Unity.Settings">
- <HintPath>D:/Slo-Mo-Sports/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
+ <HintPath>G:/Slo-Mo-Sports/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
