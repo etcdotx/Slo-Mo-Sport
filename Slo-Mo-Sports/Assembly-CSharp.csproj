@@ -51,6 +51,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Bullets.cs" />
      <Compile Include="Assets\CameraFPS.cs" />
      <Compile Include="Assets\Enemy.cs" />
      <Compile Include="Assets\NavMeshComponents\Scripts\NavMeshLink.cs" />
@@ -60,10 +61,11 @@
      <Compile Include="Assets\OBJImport\OBJLoader.cs" />
      <Compile Include="Assets\OBJImport\TextureLoader.cs" />
      <Compile Include="Assets\PlayerControl.cs" />
+     <Compile Include="Assets\TimeManager.cs" />
      <Compile Include="Assets\Weapon.cs" />
      <None Include="Assets\OBJImport\readme.txt" />
  <Reference Include="Facebook.Unity.Settings">
- <HintPath>C:/Users/prk/Documents/GitHub/Slo-Mo-Sport/Slo-Mo-Sports/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
+ <HintPath>D:/Slo-Mo-Sport/Slo-Mo-Sports/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>

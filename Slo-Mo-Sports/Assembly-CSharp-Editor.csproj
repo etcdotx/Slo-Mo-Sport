@@ -58,7 +58,7 @@
      <Compile Include="Assets\NavMeshComponents\Editor\NavMeshSurfaceEditor.cs" />
      <None Include="Assets\OBJImport\readme.txt" />
  <Reference Include="Facebook.Unity.Settings">
- <HintPath>C:/Users/prk/Documents/GitHub/Slo-Mo-Sport/Slo-Mo-Sports/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
+ <HintPath>D:/Slo-Mo-Sport/Slo-Mo-Sports/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Advertisements">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll</HintPath>
