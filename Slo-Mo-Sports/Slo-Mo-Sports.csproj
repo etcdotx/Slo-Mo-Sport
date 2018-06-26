@@ -81,6 +81,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Bullets.cs" />
     <Compile Include="Assets\CameraFPS.cs" />
     <Compile Include="Assets\Enemy.cs" />
     <Compile Include="Assets\NavMeshComponents\Scripts\NavMeshLink.cs" />
