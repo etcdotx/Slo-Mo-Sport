@@ -13,6 +13,7 @@ public class TimeManager : MonoBehaviour {
 
     public void doslowmotion() {
         Time.timeScale = slowdownfactor;
+        Time.fixedDeltaTime = Time.timeScale * .02f;
     }
 
    public void backtonormal() {

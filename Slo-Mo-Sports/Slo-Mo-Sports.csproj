@@ -84,6 +84,8 @@
     <Compile Include="Assets\Bullets.cs" />
     <Compile Include="Assets\CameraFPS.cs" />
     <Compile Include="Assets\Enemy.cs" />
+    <Compile Include="Assets\FieldOfView.cs" />
+    <Compile Include="Assets\Guns.cs" />
     <Compile Include="Assets\NavMeshComponents\Scripts\NavMeshLink.cs" />
     <Compile Include="Assets\NavMeshComponents\Scripts\NavMeshModifier.cs" />
     <Compile Include="Assets\NavMeshComponents\Scripts\NavMeshModifierVolume.cs" />
@@ -93,6 +95,7 @@
     <Compile Include="Assets\PlayerControl.cs" />
     <Compile Include="Assets\TimeManager.cs" />
     <Compile Include="Assets\Weapon.cs" />
+    <Compile Include="Assets\WeaponSwitch.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\OBJImport\readme.txt" />

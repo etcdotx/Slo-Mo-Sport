@@ -7,12 +7,10 @@ public class Bullets : MonoBehaviour {
     Rigidbody rb;
 	// Use this for initialization
 	void Start () {
+ 
+  
         rb = GetComponent<Rigidbody>();
-        rb.AddForce(transform.forward * thrust, ForceMode.Impulse);
+
+        rb.AddForce(Camera.main.transform.forward*thrust , ForceMode.Impulse);
     }
-    void Update() {
-        
-    }
-	
-	
 }
