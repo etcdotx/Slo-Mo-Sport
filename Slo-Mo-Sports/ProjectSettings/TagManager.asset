@@ -6,6 +6,9 @@ TagManager:
   tags:
   - Enemy
   - Ball
+  - Props
+  - Ammo
+  - Bullet
   layers:
   - Default
   - TransparentFX

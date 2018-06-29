@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 8db567ce99c2dfb449b2d9b75c130276
+timeCreated: 1530191793
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Xirod
+  fontNames:
+  - Xirod
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
